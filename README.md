@@ -25,15 +25,10 @@ The Supplementary Information provides additional details supporting the methodo
 
 ## Repository Contents
 
-Supplementary Information files and supporting materials will be added as they are finalized.
-
-## Supplementary Information
-
-The supplementary information accompanying this paper is available here:
-
-[**Download Supplementary Information (PDF)**](HDPE_DMFA_Supplementary_Information.pdf)
+- [**Supplementary Information (PDF)**](HDPE_DMFA_Supplementary_Information.pdf) — Detailed methodology, model assumptions, input data, supporting tables, and optimization formulation for the MSEC 2027 paper.
 
 The document provides additional methodology, model assumptions, input parameters, supporting tables, and details of the optimization framework.
+
 
 ## Citation
 
